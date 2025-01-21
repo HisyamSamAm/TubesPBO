@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Peminjaman Playstation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|d:\\c#\\peminjaman playstation\\peminjaman playstation\\pelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\pelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\peminjaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\peminjaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\pengembalian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\pengembalian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\pengembalian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\pengembalian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\pelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\pelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\pelanggan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\pelanggan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\pelanggan.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\pelanggan.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\pengembalian.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\pengembalian.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\peminjaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\peminjaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\peminjaman.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\peminjaman.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\C#\\Peminjaman Playstation\\peminjaman playstation\\playstation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0C72F3-98CA-4623-94AD-0C0E98180B39}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\playstation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 221,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pengembalian.cs",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pengembalian.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Pengembalian.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pengembalian.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\Pengembalian.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:44:19.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Homepage.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Homepage.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Homepage.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\Homepage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:24:32.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Homepage.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Homepage.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Homepage.cs [Design]",
+              "RelativeToolTip": "Peminjaman Playstation\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:18:07.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pelanggan.resx",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pelanggan.resx",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Pelanggan.resx",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pelanggan.resx",
+              "RelativeToolTip": "Peminjaman Playstation\\Pelanggan.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-21T05:13:10.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Program.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Program.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Program.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:14:06.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pengembalian.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pengembalian.Designer.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Pengembalian.Designer.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pengembalian.Designer.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\Pengembalian.Designer.cs",
+              "ViewState": "AQIAAHgBAAAAAAAAAAAcwLUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:13:38.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pengembalian.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pengembalian.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Pengembalian.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pengembalian.cs [Design]",
+              "RelativeToolTip": "Peminjaman Playstation\\Pengembalian.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:13:35.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Peminjaman.cs",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Peminjaman.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Peminjaman.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Peminjaman.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\Peminjaman.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:07:39.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Peminjaman.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Peminjaman.Designer.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Peminjaman.Designer.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Peminjaman.Designer.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\Peminjaman.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoBAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:59:01.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Peminjaman.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Peminjaman.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Peminjaman.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Peminjaman.cs [Design]",
+              "RelativeToolTip": "Peminjaman Playstation\\Peminjaman.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:51:58.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pelanggan.cs",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pelanggan.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Pelanggan.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pelanggan.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\Pelanggan.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:21:00.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Playstation.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Playstation.Designer.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Playstation.Designer.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Playstation.Designer.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\Playstation.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:20:32.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Playstation.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Playstation.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Playstation.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Playstation.cs [Design]",
+              "RelativeToolTip": "Peminjaman Playstation\\Playstation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:14:36.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pelanggan.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pelanggan.Designer.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Pelanggan.Designer.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pelanggan.Designer.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\Pelanggan.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwPwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:07:10.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pelanggan.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pelanggan.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Pelanggan.cs",
+              "ToolTip": "D:\\C#\\Peminjaman Playstation\\Peminjaman Playstation\\Pelanggan.cs [Design]",
+              "RelativeToolTip": "Peminjaman Playstation\\Pelanggan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:05:04.296Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

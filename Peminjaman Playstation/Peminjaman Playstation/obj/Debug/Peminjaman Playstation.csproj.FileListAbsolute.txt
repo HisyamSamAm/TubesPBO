@@ -1,0 +1,14 @@
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.exe.config
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.exe
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.pdb
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.csproj.AssemblyReference.cache
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.Peminjaman.resources
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.Pengembalian.resources
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.Playstation.resources
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.Properties.Resources.resources
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.csproj.GenerateResource.cache
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.csproj.CoreCompileInputs.cache
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.exe
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.pdb
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.Pelanggan.resources
+D:\C#\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.Homepage.resources
