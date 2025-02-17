@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Peminjaman_Playstation.view;
 
 namespace Peminjaman_Playstation
 {
@@ -16,7 +17,10 @@ namespace Peminjaman_Playstation
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new SplashForm());
             Application.Run(new Homepage());
+            
+
         }
     }
 }

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.9.34607.119
+VisualStudioVersion = 17.12.35728.132 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peminjaman Playstation", "Peminjaman Playstation\Peminjaman Playstation.csproj", "{5D0C72F3-98CA-4623-94AD-0C0E98180B39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peminjaman Playstation", "Peminjaman Playstation\Peminjaman Playstation.csproj", "{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5D0C72F3-98CA-4623-94AD-0C0E98180B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D0C72F3-98CA-4623-94AD-0C0E98180B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D0C72F3-98CA-4623-94AD-0C0E98180B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D0C72F3-98CA-4623-94AD-0C0E98180B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4BFE0058-B4EC-4D57-A36D-155CCD4B6A93}
 	EndGlobalSection
 EndGlobal
