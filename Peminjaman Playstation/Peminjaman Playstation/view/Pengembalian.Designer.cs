@@ -56,6 +56,7 @@
             this.dataGridViewPengembalian = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPengembalian)).BeginInit();
             this.SuspendLayout();
+            this.buttonHitungDenda = new System.Windows.Forms.Button();
             // 
             // labelNamaAdmin
             // 
@@ -109,7 +110,7 @@
             // 
             this.labelTglPengembalian.Location = new System.Drawing.Point(346, 60);
             this.labelTglPengembalian.Name = "labelTglPengembalian";
-            this.labelTglPengembalian.Size = new System.Drawing.Size(120, 20);
+            this.labelTglPengembalian.Size = new System.Drawing.Size(130, 20);
             this.labelTglPengembalian.TabIndex = 6;
             this.labelTglPengembalian.Text = "Tgl. Pengembalian";
             // 
@@ -215,51 +216,51 @@
             // 
             // textBoxTotalHarga
             // 
-            this.textBoxTotalHarga.Location = new System.Drawing.Point(456, 150);
+            this.textBoxTotalHarga.Location = new System.Drawing.Point(482, 150);
             this.textBoxTotalHarga.Name = "textBoxTotalHarga";
-            this.textBoxTotalHarga.Size = new System.Drawing.Size(224, 22);
+            this.textBoxTotalHarga.Size = new System.Drawing.Size(248, 22);
             this.textBoxTotalHarga.TabIndex = 20;
             // 
             // textBoxKeterlambatan
             // 
-            this.textBoxKeterlambatan.Location = new System.Drawing.Point(456, 183);
+            this.textBoxKeterlambatan.Location = new System.Drawing.Point(482, 183);
             this.textBoxKeterlambatan.Name = "textBoxKeterlambatan";
-            this.textBoxKeterlambatan.Size = new System.Drawing.Size(224, 22);
+            this.textBoxKeterlambatan.Size = new System.Drawing.Size(248, 22);
             this.textBoxKeterlambatan.TabIndex = 21;
             // 
             // textBoxDendaHari
             // 
-            this.textBoxDendaHari.Location = new System.Drawing.Point(456, 213);
+            this.textBoxDendaHari.Location = new System.Drawing.Point(482, 213);
             this.textBoxDendaHari.Name = "textBoxDendaHari";
-            this.textBoxDendaHari.Size = new System.Drawing.Size(224, 22);
+            this.textBoxDendaHari.Size = new System.Drawing.Size(248, 22);
             this.textBoxDendaHari.TabIndex = 22;
             // 
             // textBoxTotalDenda
             // 
-            this.textBoxTotalDenda.Location = new System.Drawing.Point(456, 243);
+            this.textBoxTotalDenda.Location = new System.Drawing.Point(482, 243);
             this.textBoxTotalDenda.Name = "textBoxTotalDenda";
-            this.textBoxTotalDenda.Size = new System.Drawing.Size(224, 22);
+            this.textBoxTotalDenda.Size = new System.Drawing.Size(248, 22);
             this.textBoxTotalDenda.TabIndex = 23;
             // 
             // textBoxTotalBayar
             // 
-            this.textBoxTotalBayar.Location = new System.Drawing.Point(456, 273);
+            this.textBoxTotalBayar.Location = new System.Drawing.Point(482, 273);
             this.textBoxTotalBayar.Name = "textBoxTotalBayar";
-            this.textBoxTotalBayar.Size = new System.Drawing.Size(224, 22);
+            this.textBoxTotalBayar.Size = new System.Drawing.Size(248, 22);
             this.textBoxTotalBayar.TabIndex = 24;
             // 
             // textBoxBayar
             // 
-            this.textBoxBayar.Location = new System.Drawing.Point(456, 303);
+            this.textBoxBayar.Location = new System.Drawing.Point(482, 303);
             this.textBoxBayar.Name = "textBoxBayar";
-            this.textBoxBayar.Size = new System.Drawing.Size(224, 22);
+            this.textBoxBayar.Size = new System.Drawing.Size(248, 22);
             this.textBoxBayar.TabIndex = 25;
             // 
             // textBoxKembalian
             // 
-            this.textBoxKembalian.Location = new System.Drawing.Point(456, 333);
+            this.textBoxKembalian.Location = new System.Drawing.Point(482, 333);
             this.textBoxKembalian.Name = "textBoxKembalian";
-            this.textBoxKembalian.Size = new System.Drawing.Size(224, 22);
+            this.textBoxKembalian.Size = new System.Drawing.Size(248, 22);
             this.textBoxKembalian.TabIndex = 26;
             // 
             // comboBoxIDPelanggan
@@ -271,30 +272,31 @@
             // 
             // comboBoxNoTransaksi
             // 
-            this.comboBoxNoTransaksi.Location = new System.Drawing.Point(456, 30);
+            this.comboBoxNoTransaksi.Location = new System.Drawing.Point(482, 30);
             this.comboBoxNoTransaksi.Name = "comboBoxNoTransaksi";
-            this.comboBoxNoTransaksi.Size = new System.Drawing.Size(224, 24);
+            this.comboBoxNoTransaksi.Size = new System.Drawing.Size(248, 24);
             this.comboBoxNoTransaksi.TabIndex = 28;
+            this.comboBoxNoTransaksi.SelectedIndexChanged += new System.EventHandler(this.comboBoxNoTransaksi_SelectedIndexChanged);
             // 
             // comboBoxIDPlaystation
             // 
-            this.comboBoxIDPlaystation.Location = new System.Drawing.Point(456, 90);
+            this.comboBoxIDPlaystation.Location = new System.Drawing.Point(482, 90);
             this.comboBoxIDPlaystation.Name = "comboBoxIDPlaystation";
-            this.comboBoxIDPlaystation.Size = new System.Drawing.Size(224, 24);
+            this.comboBoxIDPlaystation.Size = new System.Drawing.Size(248, 24);
             this.comboBoxIDPlaystation.TabIndex = 29;
             // 
             // comboBoxPlaystation
             // 
-            this.comboBoxPlaystation.Location = new System.Drawing.Point(456, 120);
+            this.comboBoxPlaystation.Location = new System.Drawing.Point(482, 120);
             this.comboBoxPlaystation.Name = "comboBoxPlaystation";
-            this.comboBoxPlaystation.Size = new System.Drawing.Size(224, 24);
+            this.comboBoxPlaystation.Size = new System.Drawing.Size(248, 24);
             this.comboBoxPlaystation.TabIndex = 30;
             // 
             // dateTimePickerTglPengembalian
             // 
-            this.dateTimePickerTglPengembalian.Location = new System.Drawing.Point(456, 60);
+            this.dateTimePickerTglPengembalian.Location = new System.Drawing.Point(482, 60);
             this.dateTimePickerTglPengembalian.Name = "dateTimePickerTglPengembalian";
-            this.dateTimePickerTglPengembalian.Size = new System.Drawing.Size(224, 22);
+            this.dateTimePickerTglPengembalian.Size = new System.Drawing.Size(248, 22);
             this.dateTimePickerTglPengembalian.TabIndex = 31;
             // 
             // buttonSimpan
@@ -304,18 +306,20 @@
             this.buttonSimpan.Size = new System.Drawing.Size(100, 30);
             this.buttonSimpan.TabIndex = 32;
             this.buttonSimpan.Text = "Simpan";
+            this.buttonSimpan.Click += new System.EventHandler(this.buttonSimpan_Click);
             // 
             // buttonHitung
             // 
-            this.buttonHitung.Location = new System.Drawing.Point(129, 364);
+            this.buttonHitung.Location = new System.Drawing.Point(746, 303);
             this.buttonHitung.Name = "buttonHitung";
             this.buttonHitung.Size = new System.Drawing.Size(100, 30);
             this.buttonHitung.TabIndex = 33;
             this.buttonHitung.Text = "Hitung";
+            this.buttonHitung.Click += new System.EventHandler(this.buttonHitung_Click);
             // 
             // buttonClear
             // 
-            this.buttonClear.Location = new System.Drawing.Point(19, 323);
+            this.buttonClear.Location = new System.Drawing.Point(231, 364);
             this.buttonClear.Name = "buttonClear";
             this.buttonClear.Size = new System.Drawing.Size(100, 30);
             this.buttonClear.TabIndex = 34;
@@ -323,11 +327,12 @@
             // 
             // buttonDelete
             // 
-            this.buttonDelete.Location = new System.Drawing.Point(129, 326);
+            this.buttonDelete.Location = new System.Drawing.Point(125, 364);
             this.buttonDelete.Name = "buttonDelete";
             this.buttonDelete.Size = new System.Drawing.Size(100, 30);
             this.buttonDelete.TabIndex = 35;
             this.buttonDelete.Text = "Delete";
+            this.buttonDelete.Click += new System.EventHandler(this.buttonDelete_Click);
             // 
             // dataGridViewPengembalian
             // 
@@ -335,14 +340,25 @@
             this.dataGridViewPengembalian.Location = new System.Drawing.Point(20, 400);
             this.dataGridViewPengembalian.Name = "dataGridViewPengembalian";
             this.dataGridViewPengembalian.RowHeadersWidth = 51;
-            this.dataGridViewPengembalian.Size = new System.Drawing.Size(857, 150);
+            this.dataGridViewPengembalian.Size = new System.Drawing.Size(1280, 150);
             this.dataGridViewPengembalian.TabIndex = 36;
+            this.dataGridViewPengembalian.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewPengembalian_CellClick);            // 
+            // buttonHitungDenda
+            // 
+            this.buttonHitungDenda.Location = new System.Drawing.Point(746, 243);
+            this.buttonHitungDenda.Name = "buttonHitungDenda";
+            this.buttonHitungDenda.Size = new System.Drawing.Size(119, 30);
+            this.buttonHitungDenda.TabIndex = 37;
+            this.buttonHitungDenda.Text = "Hitung Denda";
+            this.buttonHitungDenda.UseVisualStyleBackColor = true;
+            this.buttonHitungDenda.Click += new System.EventHandler(this.buttonHitungDenda_Click);
             // 
             // Pengembalian
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1092, 600);
+            this.ClientSize = new System.Drawing.Size(1315, 600);
+            this.Controls.Add(this.buttonHitungDenda);
             this.Controls.Add(this.labelNamaAdmin);
             this.Controls.Add(this.labelIDPelanggan);
             this.Controls.Add(this.labelNamaPelanggan);
@@ -433,5 +449,6 @@
         private System.Windows.Forms.Button buttonDelete;
 
         private System.Windows.Forms.DataGridView dataGridViewPengembalian;
+        private System.Windows.Forms.Button buttonHitungDenda;
     }
 }

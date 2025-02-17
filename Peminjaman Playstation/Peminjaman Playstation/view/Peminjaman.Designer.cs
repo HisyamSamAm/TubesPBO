@@ -51,7 +51,7 @@
             this.buttonGenerate = new System.Windows.Forms.Button();
             this.buttonHitungOtomatis = new System.Windows.Forms.Button();
             this.dataGridViewTransactions = new System.Windows.Forms.DataGridView();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBoxNoTransaksi = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewTransactions)).BeginInit();
             this.SuspendLayout();
             // 
@@ -115,7 +115,7 @@
             // 
             this.labelTglPeminjaman.Location = new System.Drawing.Point(362, 60);
             this.labelTglPeminjaman.Name = "labelTglPeminjaman";
-            this.labelTglPeminjaman.Size = new System.Drawing.Size(100, 20);
+            this.labelTglPeminjaman.Size = new System.Drawing.Size(116, 20);
             this.labelTglPeminjaman.TabIndex = 7;
             this.labelTglPeminjaman.Text = "Tgl. Peminjaman";
             // 
@@ -163,7 +163,7 @@
             // 
             this.labelTglPengembalian.Location = new System.Drawing.Point(362, 240);
             this.labelTglPengembalian.Name = "labelTglPengembalian";
-            this.labelTglPengembalian.Size = new System.Drawing.Size(100, 20);
+            this.labelTglPengembalian.Size = new System.Drawing.Size(133, 20);
             this.labelTglPengembalian.TabIndex = 13;
             this.labelTglPengembalian.Text = "Tgl. Pengembalian";
             // 
@@ -171,91 +171,94 @@
             // 
             this.textBoxNamaAdmin.Location = new System.Drawing.Point(130, 30);
             this.textBoxNamaAdmin.Name = "textBoxNamaAdmin";
-            this.textBoxNamaAdmin.Size = new System.Drawing.Size(200, 22);
+            this.textBoxNamaAdmin.Size = new System.Drawing.Size(212, 22);
             this.textBoxNamaAdmin.TabIndex = 14;
             // 
             // textBoxNIK
             // 
             this.textBoxNIK.Location = new System.Drawing.Point(130, 90);
             this.textBoxNIK.Name = "textBoxNIK";
-            this.textBoxNIK.Size = new System.Drawing.Size(200, 22);
+            this.textBoxNIK.Size = new System.Drawing.Size(212, 22);
             this.textBoxNIK.TabIndex = 15;
             // 
             // textBoxNamaPelanggan
             // 
             this.textBoxNamaPelanggan.Location = new System.Drawing.Point(130, 120);
             this.textBoxNamaPelanggan.Name = "textBoxNamaPelanggan";
-            this.textBoxNamaPelanggan.Size = new System.Drawing.Size(200, 22);
+            this.textBoxNamaPelanggan.Size = new System.Drawing.Size(212, 22);
             this.textBoxNamaPelanggan.TabIndex = 16;
             // 
             // textBoxNomorTelepon
             // 
             this.textBoxNomorTelepon.Location = new System.Drawing.Point(130, 150);
             this.textBoxNomorTelepon.Name = "textBoxNomorTelepon";
-            this.textBoxNomorTelepon.Size = new System.Drawing.Size(200, 22);
+            this.textBoxNomorTelepon.Size = new System.Drawing.Size(212, 22);
             this.textBoxNomorTelepon.TabIndex = 17;
             // 
             // textBoxAlamat
             // 
             this.textBoxAlamat.Location = new System.Drawing.Point(130, 180);
             this.textBoxAlamat.Name = "textBoxAlamat";
-            this.textBoxAlamat.Size = new System.Drawing.Size(200, 22);
+            this.textBoxAlamat.Size = new System.Drawing.Size(212, 22);
             this.textBoxAlamat.TabIndex = 18;
             // 
             // textBoxHarga
             // 
-            this.textBoxHarga.Location = new System.Drawing.Point(472, 150);
+            this.textBoxHarga.Location = new System.Drawing.Point(501, 150);
             this.textBoxHarga.Name = "textBoxHarga";
-            this.textBoxHarga.Size = new System.Drawing.Size(226, 22);
+            this.textBoxHarga.Size = new System.Drawing.Size(249, 22);
             this.textBoxHarga.TabIndex = 19;
             // 
             // textBoxLamaSewa
             // 
-            this.textBoxLamaSewa.Location = new System.Drawing.Point(472, 180);
+            this.textBoxLamaSewa.Location = new System.Drawing.Point(501, 180);
             this.textBoxLamaSewa.Name = "textBoxLamaSewa";
-            this.textBoxLamaSewa.Size = new System.Drawing.Size(226, 22);
+            this.textBoxLamaSewa.Size = new System.Drawing.Size(249, 22);
             this.textBoxLamaSewa.TabIndex = 20;
+            this.textBoxLamaSewa.TextChanged += new System.EventHandler(this.textBoxLamaSewa_TextChanged);
             // 
             // textBoxTotalHarga
             // 
-            this.textBoxTotalHarga.Location = new System.Drawing.Point(472, 210);
+            this.textBoxTotalHarga.Location = new System.Drawing.Point(501, 210);
             this.textBoxTotalHarga.Name = "textBoxTotalHarga";
-            this.textBoxTotalHarga.Size = new System.Drawing.Size(226, 22);
+            this.textBoxTotalHarga.Size = new System.Drawing.Size(249, 22);
             this.textBoxTotalHarga.TabIndex = 21;
             // 
             // comboBoxIDPelanggan
             // 
             this.comboBoxIDPelanggan.Location = new System.Drawing.Point(130, 60);
             this.comboBoxIDPelanggan.Name = "comboBoxIDPelanggan";
-            this.comboBoxIDPelanggan.Size = new System.Drawing.Size(200, 24);
+            this.comboBoxIDPelanggan.Size = new System.Drawing.Size(212, 24);
             this.comboBoxIDPelanggan.TabIndex = 22;
+            this.comboBoxIDPelanggan.SelectedIndexChanged += new System.EventHandler(this.comboBoxIDPelanggan_SelectedIndexChanged);
             // 
             // comboBoxIDPlaystation
             // 
-            this.comboBoxIDPlaystation.Location = new System.Drawing.Point(472, 90);
+            this.comboBoxIDPlaystation.Location = new System.Drawing.Point(501, 90);
             this.comboBoxIDPlaystation.Name = "comboBoxIDPlaystation";
-            this.comboBoxIDPlaystation.Size = new System.Drawing.Size(226, 24);
+            this.comboBoxIDPlaystation.Size = new System.Drawing.Size(249, 24);
             this.comboBoxIDPlaystation.TabIndex = 23;
+            this.comboBoxIDPlaystation.SelectedIndexChanged += new System.EventHandler(this.comboBoxIDPlaystation_SelectedIndexChanged);
             // 
             // comboBoxPlaystation
             // 
-            this.comboBoxPlaystation.Location = new System.Drawing.Point(472, 120);
+            this.comboBoxPlaystation.Location = new System.Drawing.Point(501, 120);
             this.comboBoxPlaystation.Name = "comboBoxPlaystation";
-            this.comboBoxPlaystation.Size = new System.Drawing.Size(226, 24);
+            this.comboBoxPlaystation.Size = new System.Drawing.Size(249, 24);
             this.comboBoxPlaystation.TabIndex = 24;
             // 
             // dateTimePickerTglPeminjaman
             // 
-            this.dateTimePickerTglPeminjaman.Location = new System.Drawing.Point(472, 60);
+            this.dateTimePickerTglPeminjaman.Location = new System.Drawing.Point(501, 60);
             this.dateTimePickerTglPeminjaman.Name = "dateTimePickerTglPeminjaman";
-            this.dateTimePickerTglPeminjaman.Size = new System.Drawing.Size(226, 22);
+            this.dateTimePickerTglPeminjaman.Size = new System.Drawing.Size(249, 22);
             this.dateTimePickerTglPeminjaman.TabIndex = 25;
             // 
             // dateTimePickerTglPengembalian
             // 
-            this.dateTimePickerTglPengembalian.Location = new System.Drawing.Point(472, 240);
+            this.dateTimePickerTglPengembalian.Location = new System.Drawing.Point(501, 240);
             this.dateTimePickerTglPengembalian.Name = "dateTimePickerTglPengembalian";
-            this.dateTimePickerTglPengembalian.Size = new System.Drawing.Size(226, 22);
+            this.dateTimePickerTglPengembalian.Size = new System.Drawing.Size(249, 22);
             this.dateTimePickerTglPengembalian.TabIndex = 26;
             // 
             // buttonSimpan
@@ -265,6 +268,7 @@
             this.buttonSimpan.Size = new System.Drawing.Size(100, 30);
             this.buttonSimpan.TabIndex = 27;
             this.buttonSimpan.Text = "Simpan";
+            this.buttonSimpan.Click += new System.EventHandler(this.buttonSimpan_Click);
             // 
             // buttonEdit
             // 
@@ -273,6 +277,7 @@
             this.buttonEdit.Size = new System.Drawing.Size(100, 30);
             this.buttonEdit.TabIndex = 28;
             this.buttonEdit.Text = "Edit";
+            this.buttonEdit.Click += new System.EventHandler(this.buttonEdit_Click);
             // 
             // buttonClear
             // 
@@ -281,6 +286,7 @@
             this.buttonClear.Size = new System.Drawing.Size(100, 30);
             this.buttonClear.TabIndex = 29;
             this.buttonClear.Text = "Clear";
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
             // 
             // buttonHapus
             // 
@@ -289,22 +295,25 @@
             this.buttonHapus.Size = new System.Drawing.Size(100, 30);
             this.buttonHapus.TabIndex = 30;
             this.buttonHapus.Text = "Hapus";
+            this.buttonHapus.Click += new System.EventHandler(this.buttonHapus_Click);
             // 
             // buttonGenerate
             // 
-            this.buttonGenerate.Location = new System.Drawing.Point(713, 19);
+            this.buttonGenerate.Location = new System.Drawing.Point(817, 20);
             this.buttonGenerate.Name = "buttonGenerate";
-            this.buttonGenerate.Size = new System.Drawing.Size(100, 30);
+            this.buttonGenerate.Size = new System.Drawing.Size(109, 30);
             this.buttonGenerate.TabIndex = 31;
             this.buttonGenerate.Text = "Generate";
+            this.buttonGenerate.Click += new System.EventHandler(this.buttonGenerate_Click);
             // 
             // buttonHitungOtomatis
             // 
-            this.buttonHitungOtomatis.Location = new System.Drawing.Point(713, 203);
+            this.buttonHitungOtomatis.Location = new System.Drawing.Point(817, 203);
             this.buttonHitungOtomatis.Name = "buttonHitungOtomatis";
-            this.buttonHitungOtomatis.Size = new System.Drawing.Size(150, 30);
+            this.buttonHitungOtomatis.Size = new System.Drawing.Size(159, 30);
             this.buttonHitungOtomatis.TabIndex = 32;
             this.buttonHitungOtomatis.Text = "Hitung Otomatis";
+            this.buttonHitungOtomatis.Click += new System.EventHandler(this.buttonHitungOtomatis_Click);
             // 
             // dataGridViewTransactions
             // 
@@ -312,22 +321,23 @@
             this.dataGridViewTransactions.Location = new System.Drawing.Point(23, 329);
             this.dataGridViewTransactions.Name = "dataGridViewTransactions";
             this.dataGridViewTransactions.RowHeadersWidth = 51;
-            this.dataGridViewTransactions.Size = new System.Drawing.Size(950, 200);
+            this.dataGridViewTransactions.Size = new System.Drawing.Size(1184, 200);
             this.dataGridViewTransactions.TabIndex = 33;
+            this.dataGridViewTransactions.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewTransactions_CellClick);
             // 
-            // textBox1
+            // textBoxNoTransaksi
             // 
-            this.textBox1.Location = new System.Drawing.Point(472, 27);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(226, 22);
-            this.textBox1.TabIndex = 34;
+            this.textBoxNoTransaksi.Location = new System.Drawing.Point(501, 27);
+            this.textBoxNoTransaksi.Name = "textBoxNoTransaksi";
+            this.textBoxNoTransaksi.Size = new System.Drawing.Size(249, 22);
+            this.textBoxNoTransaksi.TabIndex = 34;
             // 
             // Peminjaman
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1000, 550);
-            this.Controls.Add(this.textBox1);
+            this.ClientSize = new System.Drawing.Size(1219, 550);
+            this.Controls.Add(this.textBoxNoTransaksi);
             this.Controls.Add(this.labelNamaAdmin);
             this.Controls.Add(this.labelIDPelanggan);
             this.Controls.Add(this.labelNIK);
@@ -412,6 +422,6 @@
         private System.Windows.Forms.Button buttonHitungOtomatis;
 
         private System.Windows.Forms.DataGridView dataGridViewTransactions;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBoxNoTransaksi;
     }
 }

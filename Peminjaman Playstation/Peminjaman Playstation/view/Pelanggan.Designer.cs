@@ -2,15 +2,8 @@
 {
     partial class Pelanggan
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -22,10 +15,6 @@
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
             this.labelIDPelanggan = new System.Windows.Forms.Label();
@@ -43,10 +32,10 @@
             this.labelAlamat = new System.Windows.Forms.Label();
             this.textBoxAlamat = new System.Windows.Forms.TextBox();
             this.buttonSimpan = new System.Windows.Forms.Button();
-            this.buttonUbah = new System.Windows.Forms.Button();
+            this.buttonUbah = new System.Windows.Forms.Button(); // Deklarasi hanya sekali
             this.buttonHapus = new System.Windows.Forms.Button();
             this.buttonClear = new System.Windows.Forms.Button();
-            this.dataGridView = new System.Windows.Forms.DataGridView();
+            this.dataGridView = new System.Windows.Forms.DataGridView(); // Deklarasi hanya sekali
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).BeginInit();
             this.SuspendLayout();
             // 
@@ -74,6 +63,7 @@
             this.buttonGenerate.TabIndex = 3;
             this.buttonGenerate.Text = "Generate";
             this.buttonGenerate.UseVisualStyleBackColor = true;
+            this.buttonGenerate.Click += new System.EventHandler(this.buttonGenerate_Click);
             // 
             // labelNIK
             // 
@@ -179,6 +169,7 @@
             this.buttonSimpan.TabIndex = 15;
             this.buttonSimpan.Text = "Simpan";
             this.buttonSimpan.UseVisualStyleBackColor = true;
+            this.buttonSimpan.Click += new System.EventHandler(this.buttonSimpan_Click);
             // 
             // buttonUbah
             // 
@@ -188,6 +179,7 @@
             this.buttonUbah.TabIndex = 16;
             this.buttonUbah.Text = "Ubah";
             this.buttonUbah.UseVisualStyleBackColor = true;
+            this.buttonUbah.Click += new System.EventHandler(this.buttonUbah_Click);
             // 
             // buttonHapus
             // 
@@ -197,6 +189,7 @@
             this.buttonHapus.TabIndex = 17;
             this.buttonHapus.Text = "Hapus";
             this.buttonHapus.UseVisualStyleBackColor = true;
+            this.buttonHapus.Click += new System.EventHandler(this.buttonHapus_Click);
             // 
             // buttonClear
             // 
@@ -206,15 +199,15 @@
             this.buttonClear.TabIndex = 18;
             this.buttonClear.Text = "Clear";
             this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
             // 
             // dataGridView
             // 
-            this.dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView.Location = new System.Drawing.Point(15, 273);
             this.dataGridView.Name = "dataGridView";
-            this.dataGridView.RowHeadersWidth = 51;
             this.dataGridView.Size = new System.Drawing.Size(760, 185);
             this.dataGridView.TabIndex = 19;
+            this.dataGridView.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_CellClick);
             // 
             // Pelanggan
             // 
@@ -243,10 +236,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
         #endregion
+
         private System.Windows.Forms.Label labelIDPelanggan;
         private System.Windows.Forms.TextBox textBoxIDPelanggan;
         private System.Windows.Forms.Button buttonGenerate;
