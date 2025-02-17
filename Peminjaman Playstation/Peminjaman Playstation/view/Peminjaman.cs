@@ -217,6 +217,7 @@ namespace Peminjaman_Playstation.view
                 MessageBox.Show("Pilih data yang ingin dihapus terlebih dahulu.");
             }
         }
+<<<<<<< HEAD
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -229,5 +230,7 @@ namespace Peminjaman_Playstation.view
             excel.ExportToExcel(dataGridViewTransactions, "Data Peminjaman");
 
         }
+=======
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
     }
 }

@@ -14,8 +14,12 @@ namespace Peminjaman_Playstation.controller
 
         private void Initialize()
         {
+<<<<<<< HEAD
             string connectionString = "SERVER=localhost;DATABASE=peminjaman_playstation;UID=root;PASSWORD=;";
 
+=======
+            string connectionString = "SERVER=localhost;DATABASE=peminjaman_playstation;UID=root;PASSWORD=your_password;";
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
             connection = new MySqlConnection(connectionString);
         }
 

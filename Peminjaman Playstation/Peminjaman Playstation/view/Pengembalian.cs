@@ -174,11 +174,14 @@ namespace Peminjaman_Playstation.view
                 MessageBox.Show("Pilih data yang ingin dihapus terlebih dahulu.");
             }
         }
+<<<<<<< HEAD
 
         private void btnPengembalian_Click(object sender, EventArgs e)
         {
             Excel excel = new Excel();
             excel.ExportToExcel(dataGridViewPengembalian, "Data Pengembalian");
         }
+=======
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
     }
 }

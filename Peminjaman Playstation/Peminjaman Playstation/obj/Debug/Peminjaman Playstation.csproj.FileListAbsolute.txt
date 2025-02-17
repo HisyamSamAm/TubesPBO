@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.exe.config
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.exe
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\BouncyCastle.Cryptography.dll
@@ -53,3 +54,60 @@ D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstat
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.exe
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.pdb
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.pdb
+=======
+D:\C#\BACKUP\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.exe.config
+D:\C#\BACKUP\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.exe
+D:\C#\BACKUP\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.pdb
+D:\C#\BACKUP\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.csproj.AssemblyReference.cache
+D:\C#\BACKUP\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.Properties.Resources.resources
+D:\C#\BACKUP\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.view.Peminjaman.resources
+D:\C#\BACKUP\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.view.Pengembalian.resources
+D:\C#\BACKUP\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.csproj.GenerateResource.cache
+D:\C#\BACKUP\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.csproj.CoreCompileInputs.cache
+D:\C#\BACKUP\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.exe
+D:\C#\BACKUP\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.pdb
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.exe.config
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.exe
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.pdb
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\BouncyCastle.Cryptography.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Google.Protobuf.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\K4os.Compression.LZ4.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\K4os.Hash.xxHash.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\MySql.Data.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Buffers.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.IO.Pipelines.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Memory.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Numerics.Vectors.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\ZstdSharp.dll
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\BouncyCastle.Cryptography.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Google.Protobuf.pdb
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Google.Protobuf.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\K4os.Compression.LZ4.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\K4os.Hash.xxHash.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\MySql.Data.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Buffers.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.IO.Pipelines.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Memory.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Numerics.Vectors.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.csproj.AssemblyReference.cache
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.Properties.Resources.resources
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.view.Peminjaman.resources
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.view.Pengembalian.resources
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.csproj.GenerateResource.cache
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.csproj.CoreCompileInputs.cache
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjam.F2E0DC50.Up2Date
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.exe
+D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.pdb
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f

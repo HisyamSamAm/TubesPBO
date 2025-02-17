@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\",
   "Documents": [
     {
@@ -97,6 +98,101 @@
     {
       "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\playstation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\playstation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|d:\\tugaspbo\\tubespbo\\peminjaman playstation\\peminjaman playstation\\view\\pengembalian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\pengembalian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\controller\\pelanggancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\controller\\pelanggancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\model\\m_pengembalian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\model\\m_pengembalian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\model\\m_playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\model\\m_playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\model\\m_peminjaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\model\\m_peminjaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\model\\m_pelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\model\\m_pelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\controller\\pengembaliancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\controller\\pengembaliancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\pengembalian.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\pengembalian.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\peminjaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\peminjaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\controller\\peminjamancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\controller\\peminjamancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\peminjaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\peminjaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\peminjaman.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\peminjaman.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\pelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\pelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\pelanggan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\pelanggan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\pelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\pelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\controller\\playstationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\controller\\playstationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\view\\playstation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\view\\playstation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\peminjaman playstation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3229D4C1-2645-44D6-9976-E1EBCA8D3C66}|Peminjaman Playstation\\Peminjaman Playstation.csproj|solutionrelative:peminjaman playstation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
     }
   ],
   "DocumentGroupContainers": [
@@ -106,6 +202,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -133,10 +230,22 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T19:59:36.099Z",
               "EditorCaption": ""
+=======
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
               "Title": "Homepage.cs [Design]",
               "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Homepage.cs",
               "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Homepage.cs",
@@ -270,6 +379,12 @@
               "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Pengembalian.cs",
               "RelativeDocumentMoniker": "Peminjaman Playstation\\model\\M_Pengembalian.cs",
               "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Pengembalian.cs",
+=======
+              "Title": "M_Pengembalian.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Pengembalian.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\model\\M_Pengembalian.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Pengembalian.cs",
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
               "RelativeToolTip": "Peminjaman Playstation\\model\\M_Pengembalian.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -277,11 +392,79 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 12,
               "Title": "PlaystationController.cs",
               "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\PlaystationController.cs",
               "RelativeDocumentMoniker": "Peminjaman Playstation\\controller\\PlaystationController.cs",
               "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\PlaystationController.cs",
+=======
+              "DocumentIndex": 7,
+              "Title": "PengembalianController.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\PengembalianController.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\controller\\PengembalianController.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\PengembalianController.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\controller\\PengembalianController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T19:59:53.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PeminjamanController.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\PeminjamanController.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\controller\\PeminjamanController.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\PeminjamanController.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\controller\\PeminjamanController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:01:21.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "M_Peminjaman.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Peminjaman.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\model\\M_Peminjaman.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Peminjaman.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\model\\M_Peminjaman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:59:50.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Peminjaman.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Peminjaman.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Peminjaman.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Peminjaman.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\view\\Peminjaman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:46:00.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Playstation.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Playstation.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Playstation.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Playstation.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\view\\Playstation.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwF8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:08:08.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlaystationController.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\PlaystationController.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\controller\\PlaystationController.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\PlaystationController.cs",
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
               "RelativeToolTip": "Peminjaman Playstation\\controller\\PlaystationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,11 +472,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 14,
               "Title": "M_Playstation.cs",
               "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Playstation.cs",
               "RelativeDocumentMoniker": "Peminjaman Playstation\\model\\M_Playstation.cs",
               "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Playstation.cs",
+=======
+              "DocumentIndex": 4,
+              "Title": "M_Playstation.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Playstation.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\model\\M_Playstation.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Playstation.cs",
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
               "RelativeToolTip": "Peminjaman Playstation\\model\\M_Playstation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -301,11 +492,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 11,
               "Title": "PelangganController.cs",
               "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\PelangganController.cs",
               "RelativeDocumentMoniker": "Peminjaman Playstation\\controller\\PelangganController.cs",
               "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\PelangganController.cs",
+=======
+              "DocumentIndex": 2,
+              "Title": "PelangganController.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\PelangganController.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\controller\\PelangganController.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\PelangganController.cs",
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
               "RelativeToolTip": "Peminjaman Playstation\\controller\\PelangganController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,11 +512,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 16,
               "Title": "M_Pelanggan.cs",
               "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Pelanggan.cs",
               "RelativeDocumentMoniker": "Peminjaman Playstation\\model\\M_Pelanggan.cs",
               "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Pelanggan.cs",
+=======
+              "DocumentIndex": 6,
+              "Title": "M_Pelanggan.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Pelanggan.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\model\\M_Pelanggan.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\model\\M_Pelanggan.cs",
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
               "RelativeToolTip": "Peminjaman Playstation\\model\\M_Pelanggan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -325,11 +532,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 19,
               "Title": "Pelanggan.cs",
               "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pelanggan.cs",
               "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Pelanggan.cs",
               "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pelanggan.cs",
+=======
+              "DocumentIndex": 13,
+              "Title": "Pelanggan.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pelanggan.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Pelanggan.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pelanggan.cs",
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
               "RelativeToolTip": "Peminjaman Playstation\\view\\Pelanggan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -337,11 +552,31 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 23,
               "Title": "Playstation.Designer.cs",
               "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Playstation.Designer.cs",
               "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Playstation.Designer.cs",
               "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Playstation.Designer.cs",
+=======
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\Program.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\Program.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\Program.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:58:43.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Playstation.Designer.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Playstation.Designer.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Playstation.Designer.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Playstation.Designer.cs",
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
               "RelativeToolTip": "Peminjaman Playstation\\view\\Playstation.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -349,6 +584,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 17,
               "Title": "Pengembalian.Designer.cs",
               "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pengembalian.Designer.cs",
@@ -366,6 +602,26 @@
               "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Peminjaman.Designer.cs",
               "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Peminjaman.Designer.cs",
               "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Peminjaman.Designer.cs",
+=======
+              "DocumentIndex": 8,
+              "Title": "Pengembalian.Designer.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pengembalian.Designer.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Pengembalian.Designer.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pengembalian.Designer.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\view\\Pengembalian.Designer.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwEYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:57:45.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Peminjaman.Designer.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Peminjaman.Designer.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Peminjaman.Designer.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Peminjaman.Designer.cs",
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
               "RelativeToolTip": "Peminjaman Playstation\\view\\Peminjaman.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -373,11 +629,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 20,
               "Title": "Pelanggan.Designer.cs",
               "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pelanggan.Designer.cs",
               "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Pelanggan.Designer.cs",
               "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pelanggan.Designer.cs",
+=======
+              "DocumentIndex": 14,
+              "Title": "Pelanggan.Designer.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pelanggan.Designer.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Pelanggan.Designer.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pelanggan.Designer.cs",
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
               "RelativeToolTip": "Peminjaman Playstation\\view\\Pelanggan.Designer.cs",
               "ViewState": "AgIAAMgAAAAAAAAAAAAmwM0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -385,15 +649,94 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 22,
               "Title": "Homepage.Designer.cs",
               "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Homepage.Designer.cs",
               "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Homepage.Designer.cs",
               "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\Tubes\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Homepage.Designer.cs",
+=======
+              "DocumentIndex": 0,
+              "Title": "Pengembalian.cs [Design]",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pengembalian.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Pengembalian.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pengembalian.cs [Design]",
+              "RelativeToolTip": "Peminjaman Playstation\\view\\Pengembalian.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:55:03.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Peminjaman.cs [Design]",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Peminjaman.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Peminjaman.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Peminjaman.cs [Design]",
+              "RelativeToolTip": "Peminjaman Playstation\\view\\Peminjaman.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:54:52.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Playstation.cs [Design]",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Playstation.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Playstation.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Playstation.cs [Design]",
+              "RelativeToolTip": "Peminjaman Playstation\\view\\Playstation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:54:28.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pelanggan.cs [Design]",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pelanggan.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Pelanggan.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Pelanggan.cs [Design]",
+              "RelativeToolTip": "Peminjaman Playstation\\view\\Pelanggan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:54:00.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Homepage.Designer.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Homepage.Designer.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Homepage.Designer.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Homepage.Designer.cs",
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
               "RelativeToolTip": "Peminjaman Playstation\\view\\Homepage.Designer.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T18:53:24.192Z"
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "koneksi.cs",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\koneksi.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\controller\\koneksi.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\controller\\koneksi.cs",
+              "RelativeToolTip": "Peminjaman Playstation\\controller\\koneksi.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:09:46.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Homepage.cs",
+              "RelativeDocumentMoniker": "Peminjaman Playstation\\view\\Homepage.cs",
+              "ToolTip": "D:\\TugasPBO\\TubesPBO\\Peminjaman Playstation\\Peminjaman Playstation\\view\\Homepage.cs [Design]",
+              "RelativeToolTip": "Peminjaman Playstation\\view\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:06:50.087Z"
+>>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
             }
           ]
         }
