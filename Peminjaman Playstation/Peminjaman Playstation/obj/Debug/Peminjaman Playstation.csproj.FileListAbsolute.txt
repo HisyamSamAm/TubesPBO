@@ -1,17 +1,13 @@
 <<<<<<< HEAD
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.exe.config
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Peminjaman Playstation.exe
-D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\BouncyCastle.Cryptography.dll
-D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\EPPlus.dll
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\EPPlus.Interfaces.dll
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\EPPlus.System.Drawing.dll
-D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Google.Protobuf.dll
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\K4os.Compression.LZ4.dll
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\K4os.Compression.LZ4.Streams.dll
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\K4os.Hash.xxHash.dll
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
-D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\MySql.Data.dll
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Buffers.dll
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.ComponentModel.Annotations.dll
 D:\TI\S3\Pemrograman 2\Tubes\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\bin\Debug\System.Configuration.ConfigurationManager.dll
@@ -111,3 +107,11 @@ D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Pem
 D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.exe
 D:\TugasPBO\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.pdb
 >>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
+D:\TI\S3\Pemrograman 2\res\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.csproj.AssemblyReference.cache
+D:\TI\S3\Pemrograman 2\res\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.Properties.Resources.resources
+D:\TI\S3\Pemrograman 2\res\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.view.SplashForm.resources
+D:\TI\S3\Pemrograman 2\res\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.csproj.GenerateResource.cache
+D:\TI\S3\Pemrograman 2\res\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.csproj.CoreCompileInputs.cache
+D:\TI\S3\Pemrograman 2\res\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.exe
+D:\TI\S3\Pemrograman 2\res\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman Playstation.pdb
+D:\TI\S3\Pemrograman 2\res\TubesPBO\Peminjaman Playstation\Peminjaman Playstation\obj\Debug\Peminjaman_Playstation.view.Peminjaman.resources

@@ -344,12 +344,9 @@
             this.dataGridViewPengembalian.RowHeadersWidth = 51;
             this.dataGridViewPengembalian.Size = new System.Drawing.Size(1280, 150);
             this.dataGridViewPengembalian.TabIndex = 36;
-<<<<<<< HEAD
+
             this.dataGridViewPengembalian.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewPengembalian_CellClick);
-            // 
-=======
-            this.dataGridViewPengembalian.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewPengembalian_CellClick);            // 
->>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
+            
             // buttonHitungDenda
             // 
             this.buttonHitungDenda.Location = new System.Drawing.Point(746, 243);
@@ -359,7 +356,7 @@
             this.buttonHitungDenda.Text = "Hitung Denda";
             this.buttonHitungDenda.UseVisualStyleBackColor = true;
             this.buttonHitungDenda.Click += new System.EventHandler(this.buttonHitungDenda_Click);
-<<<<<<< HEAD
+
             // 
             // btnPengembalian
             // 
@@ -372,18 +369,15 @@
             this.btnPengembalian.Text = "Export to Excel";
             this.btnPengembalian.UseVisualStyleBackColor = false;
             this.btnPengembalian.Click += new System.EventHandler(this.btnPengembalian_Click);
-=======
->>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
+
             // 
             // Pengembalian
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1315, 600);
-<<<<<<< HEAD
             this.Controls.Add(this.btnPengembalian);
-=======
->>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
+
             this.Controls.Add(this.buttonHitungDenda);
             this.Controls.Add(this.labelNamaAdmin);
             this.Controls.Add(this.labelIDPelanggan);
@@ -476,9 +470,8 @@
 
         private System.Windows.Forms.DataGridView dataGridViewPengembalian;
         private System.Windows.Forms.Button buttonHitungDenda;
-<<<<<<< HEAD
+
         private System.Windows.Forms.Button btnPengembalian;
-=======
->>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
+
     }
 }

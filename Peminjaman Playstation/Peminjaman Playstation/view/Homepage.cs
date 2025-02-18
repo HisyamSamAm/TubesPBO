@@ -1,4 +1,5 @@
-﻿using Peminjaman_Playstation.view;
+﻿using Peminjaman_Playstation.model;
+using Peminjaman_Playstation.view;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -8,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+
 
 namespace Peminjaman_Playstation
 {

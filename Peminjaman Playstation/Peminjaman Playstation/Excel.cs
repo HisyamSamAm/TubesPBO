@@ -14,6 +14,45 @@ namespace Peminjaman_Playstation
     {
         public void ExportToExcel(DataGridView dataGridView, string namaFile = "DataPeminjaman")
         {
+            //public void ExportToExcel(DataGridView dataGridView, string namaFile = "DataPeminjaman")
+            {
+                ExcelPackage.LicenseContext = LicenseContext.NonCommercial; // Set lisensi EPPlus
+
+                using (SaveFileDialog sfd = new SaveFileDialog())
+                {
+                    sfd.Filter = "Excel Files|*.xlsx";
+                    sfd.FileName = $"{namaFile}.xlsx";
+
+                    if (sfd.ShowDialog() == DialogResult.OK)
+                    {
+                        using (ExcelPackage package = new ExcelPackage())
+                        {
+                            var worksheet = package.Workbook.Worksheets.Add(namaFile);
+
+                            // Header
+                            for (int i = 0; i < dataGridView.Columns.Count; i++)
+                            {
+                                worksheet.Cells[1, i + 1].Value = dataGridView.Columns[i].HeaderText;
+                            }
+
+                            // Isi Data
+                            for (int i = 0; i < dataGridView.Rows.Count; i++)
+                            {
+                                for (int j = 0; j < dataGridView.Columns.Count; j++)
+                                {
+                                    worksheet.Cells[i + 2, j + 1].Value = dataGridView.Rows[i].Cells[j].Value?.ToString() ?? "";
+                                }
+                            }
+
+                            var file = new FileInfo(sfd.FileName);
+                            package.SaveAs(file);
+                        }
+
+                        MessageBox.Show($"Data {namaFile} berhasil diexport ke Excel!", "Sukses", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                }
+            }
+
             try
             {
                 using (SaveFileDialog sfd = new SaveFileDialog())

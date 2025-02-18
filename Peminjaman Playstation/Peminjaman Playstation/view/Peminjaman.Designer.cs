@@ -52,10 +52,7 @@
             this.buttonHitungOtomatis = new System.Windows.Forms.Button();
             this.dataGridViewTransactions = new System.Windows.Forms.DataGridView();
             this.textBoxNoTransaksi = new System.Windows.Forms.TextBox();
-<<<<<<< HEAD
             this.btnExport = new System.Windows.Forms.Button();
-=======
->>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewTransactions)).BeginInit();
             this.SuspendLayout();
             // 
@@ -335,7 +332,6 @@
             this.textBoxNoTransaksi.Name = "textBoxNoTransaksi";
             this.textBoxNoTransaksi.Size = new System.Drawing.Size(249, 22);
             this.textBoxNoTransaksi.TabIndex = 34;
-<<<<<<< HEAD
             // 
             // btnExport
             // 
@@ -348,18 +344,13 @@
             this.btnExport.Text = "Export to Excel";
             this.btnExport.UseVisualStyleBackColor = false;
             this.btnExport.Click += new System.EventHandler(this.btnExport_Click);
-=======
->>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
             // 
             // Peminjaman
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1219, 550);
-<<<<<<< HEAD
+            this.ClientSize = new System.Drawing.Size(1250, 559);
             this.Controls.Add(this.btnExport);
-=======
->>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
             this.Controls.Add(this.textBoxNoTransaksi);
             this.Controls.Add(this.labelNamaAdmin);
             this.Controls.Add(this.labelIDPelanggan);
@@ -446,9 +437,8 @@
 
         private System.Windows.Forms.DataGridView dataGridViewTransactions;
         private System.Windows.Forms.TextBox textBoxNoTransaksi;
-<<<<<<< HEAD
+
         private System.Windows.Forms.Button btnExport;
-=======
->>>>>>> cd6e5473f23f1e8968889d660bfa295ab911647f
+
     }
 }
